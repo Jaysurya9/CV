@@ -1,5 +1,5 @@
 # profile
-curriculum vitae
+Curriculum Vitae
 
 Hosted with GitHub Pages and published with a Jekyll theme.
 
