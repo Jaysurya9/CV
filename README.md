@@ -1,6 +1,10 @@
 # profile
 curriculum vitae
 
+Hosted with GitHub Pages and published with a Jekyll theme.
+
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
+
 Hostname Summary
 
     Domain : github.io
