@@ -1,7 +1,7 @@
 # profile
 Curriculum Vitae
 
-Preview : <html><a href="https://jaysurya9.github.io/profile/" target="_blank">Click Here to View the Profile</a></html>
+Preview : https://jaysurya9.github.io/profile/
 
 Hosted with GitHub Pages and published with a Jekyll theme.
 
