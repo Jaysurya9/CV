@@ -3,7 +3,7 @@ Curriculum Vitae
 
 Click Here to View the profile : https://jaysurya9.github.io/profile/
 
-Hosted with GitHub Pages and published with a Jekyll theme.
+Hosted on GitHub with GitHub Pages
 
 GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
